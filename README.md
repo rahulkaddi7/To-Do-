@@ -1,4 +1,4 @@
-# Advanced To-Do List Web App - ![live app](https://to-do-app-qh9n.onrender.com)
+# Advanced To-Do List Web App - [live app](https://to-do-app-qh9n.onrender.com)
 
 A modern, responsive, and feature-rich to-do list application built with vanilla JavaScript, HTML, and Tailwind CSS. This app goes beyond basic task management by including persistent storage via `localStorage`, drag-and-drop reordering, due dates, and reusable task templates.
 
